@@ -1,0 +1,6 @@
+{
+  "name": "BioAttend - Teacher Attendance",
+  "description": "Geofenced fingerprint mobile attendance system for teachers with shift tracking, punch-in/out records, and admin dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
